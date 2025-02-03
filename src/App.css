@@ -1,0 +1,25 @@
+aside {
+    padding-top: 20px;
+    text-align: center;
+    color: black;
+    width: 350px;
+    height: 100vh;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.personContainer {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+
+.app {
+    display: flex;
+}
+
+main {
+    display: flex;
+}
