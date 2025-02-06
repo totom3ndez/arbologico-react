@@ -34,7 +34,7 @@ select {
 }
 
 input[type="date"]::-webkit-calendar-picker-indicator {
-  filter: invert(55%) sepia(100%) saturate(1000%) hue-rotate(500deg) brightness(105%) contrast(105%);
+  filter: invert(100%);
 }
 
 a {
