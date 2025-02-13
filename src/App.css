@@ -15,11 +15,3 @@ aside {
     height: 100px;
     background-color: aqua;
 }
-
-.app {
-    display: flex;
-}
-
-main {
-    display: flex;
-}
